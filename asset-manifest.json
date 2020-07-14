@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactCoins/static/css/main.de605459.chunk.css",
+    "main.js": "/ReactCoins/static/js/main.8712016e.chunk.js",
+    "main.js.map": "/ReactCoins/static/js/main.8712016e.chunk.js.map",
+    "runtime-main.js": "/ReactCoins/static/js/runtime-main.2ee3f771.js",
+    "runtime-main.js.map": "/ReactCoins/static/js/runtime-main.2ee3f771.js.map",
+    "static/js/2.11cb9673.chunk.js": "/ReactCoins/static/js/2.11cb9673.chunk.js",
+    "static/js/2.11cb9673.chunk.js.map": "/ReactCoins/static/js/2.11cb9673.chunk.js.map",
+    "index.html": "/ReactCoins/index.html",
+    "precache-manifest.fc76ccc1ab4b44fdfb58a2a5e6f06772.js": "/ReactCoins/precache-manifest.fc76ccc1ab4b44fdfb58a2a5e6f06772.js",
+    "service-worker.js": "/ReactCoins/service-worker.js",
+    "static/css/main.de605459.chunk.css.map": "/ReactCoins/static/css/main.de605459.chunk.css.map",
+    "static/js/2.11cb9673.chunk.js.LICENSE.txt": "/ReactCoins/static/js/2.11cb9673.chunk.js.LICENSE.txt",
+    "static/media/blackLogo.svg": "/ReactCoins/static/media/blackLogo.792189d6.svg",
+    "static/media/menu.svg": "/ReactCoins/static/media/menu.72f574ee.svg",
+    "static/media/search.svg": "/ReactCoins/static/media/search.33315527.svg",
+    "static/media/settings.svg": "/ReactCoins/static/media/settings.cda83765.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee3f771.js",
+    "static/js/2.11cb9673.chunk.js",
+    "static/css/main.de605459.chunk.css",
+    "static/js/main.8712016e.chunk.js"
+  ]
+}
